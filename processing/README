@@ -1,6 +1,6 @@
 Classes: 
 
-TUIO-Calibration: The main class, where the calibration of the camera can be done and all of the event handling and logic is performed
+Processing: The main class, where the calibration of the camera can be done and all of the event handling and logic is performed
 Calibration: Helper class for the calibration
 Parser: Parse the CSV-file with our data
 Positions: All the positions are put here (The different countries and years)
